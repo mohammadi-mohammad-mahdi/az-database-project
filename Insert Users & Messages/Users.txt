@@ -1,0 +1,4 @@
+﻿درج کاربر جدید
+
+INSERT INTO 'user'('ID','FirstName','LastName','Password','Email','Phone')
+ VALUES  ('1','Mahdi','mohammadi','123456','mahdi123@gmail.com','09398299283');

@@ -1,0 +1,4 @@
+﻿درج پیام جدید
+
+INSERT INTO 'Message'('ID','UserID','Title','Boady','Email','Phone') 
+VALUES ('1','Mahdi','Hello','You have a very good site','mahdi123@gmail.com','09398299283');
